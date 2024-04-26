@@ -1,4 +1,4 @@
-package com.example.lab3_sinhvien;
+package com.example.lab3;
 
 import androidx.appcompat.app.AppCompatActivity;
 
